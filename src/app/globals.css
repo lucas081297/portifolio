@@ -1,0 +1,278 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon{
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.appium{
+    background-image: url("https://www.svgrepo.com/show/353413/appium.svg");  
+}
+
+.postman{
+    background-image: url("https://www.svgrepo.com/show/354202/postman-icon.svg");  
+}
+
+.docker{
+    background-image: url("https://www.svgrepo.com/show/452192/docker.svg");
+}
+
+.js{
+    background-image: url("https://www.svgrepo.com/show/452045/js.svg");
+}
+
+.html{
+    background-image: url("https://www.svgrepo.com/show/452228/html-5.svg");
+}
+
+.css{
+    background-image: url("https://www.svgrepo.com/show/452185/css-3.svg");
+}
+
+.csharp{
+    background-image: url("https://www.svgrepo.com/show/452184/csharp.svg");
+}
+
+.c{
+    background-image: url("../assets/pngwing.com.png");
+}
+
+.node{
+    background-image: url("https://www.svgrepo.com/show/452075/node-js.svg");
+}
+
+.next{
+    background-image: url("https://www.svgrepo.com/show/369457/nextjs.svg");
+}
+
+.react{
+    background-image: url("https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg");
+}
+
+.angular{
+    background-image: url("https://www.svgrepo.com/show/452156/angular.svg");
+}
+
+.net{
+    background-image: url("https://www.svgrepo.com/show/372837/dotnet.svg");
+}
+
+.laravel{
+    background-image: url("https://www.svgrepo.com/show/353985/laravel.svg");
+}
+
+.express{
+    background-image: url("../assets/express-svgrepo-com.svg");
+}
+
+.tailwind{
+    background-image: url("https://www.svgrepo.com/show/374118/tailwind.svg");
+}
+
+.alexa{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Amazon_Alexa_blue_logo.svg/1200px-Amazon_Alexa_blue_logo.svg.png");
+}
+
+.mongo{
+    background-image: url("https://www.svgrepo.com/show/373845/mongo.svg");
+}
+
+.postgre{
+    background-image: url("https://www.svgrepo.com/show/354200/postgresql.svg");
+}
+
+.mysql{
+    background-image: url("https://www.svgrepo.com/show/394296/mysql.svg");
+}
+
+.cssbw{
+    background-image: url("https://www.svgrepo.com/show/508795/css3-02.svg");
+}
+
+.htmlbw{
+    background-image: url("https://www.svgrepo.com/show/512355/html-124.svg");
+}
+
+.typescriptbw {
+    background-image: url("https://www.svgrepo.com/show/342317/typescript.svg");
+}
+
+.javascriptbw {
+    background-image: url("https://www.svgrepo.com/show/361903/javascript.svg");
+}
+
+.phpbw {
+    background-image: url("https://www.svgrepo.com/show/508931/php01.svg");
+}
+
+.pythonbw {
+    background-image: url("https://www.svgrepo.com/show/512738/python-127.svg");
+}
+
+.cbw {
+    background-image: url("https://www.svgrepo.com/show/508907/csharp.svg");
+}
+
+.nodejsbw {
+    background-image: url("https://www.svgrepo.com/show/508935/nodejs02.svg");
+}
+
+.laravelbw {
+    background-image: url("https://www.svgrepo.com/show/306319/laravel.svg");
+}
+
+.reactbw {
+    background-image: url("https://www.svgrepo.com/show/473768/react.svg");
+}
+
+.angularbw {
+    background-image: url("https://www.svgrepo.com/show/473537/angular.svg");
+}
+
+.jquerybw {
+    background-image: url("https://www.svgrepo.com/show/508923/jquery.svg");
+}
+
+.Alexa_GvExtract {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Amazon_Alexa_blue_logo.svg/1200px-Amazon_Alexa_blue_logo.svg.png");
+}
+
+.DietaAmiga_Public_API {
+    background-image: url("../assets/fork-login.png");
+}
+
+.DietAmiga_Public {
+    background-image: url("../assets/fork-login.png");
+}
+
+.caipirafy-front {
+    background-image: url("../assets/logo.png");
+}
+
+.caipirafy-back {
+    background-image: url("../assets/logo.png");
+}
+
+.GAS{
+    background-image: url("https://cdn-icons-png.flaticon.com/512/2965/2965300.png");
+}
+
+.GvExtract{
+    background-image: url("https://www.svgrepo.com/show/510121/pickaxe.svg");
+}
+
+.NunesSports{
+    background-image: url("../assets/nunes.png");
+}
+
+.pomodoro-app{
+    background-image: url("https://cdn-icons-png.flaticon.com/512/12238/12238205.png");
+}
+
+.rapidcar{
+    background-image: url("https://www.svgrepo.com/show/476857/car-rental.svg");
+}
+
+.PrinterWatcher{
+    background-image: url("https://media.istockphoto.com/id/1265211191/vector/dog-black-silhouette-isolated-on-white-background-sitting-pet-simple-illustration-for-web.jpg?s=612x612&w=0&k=20&c=cD6FU8Dyr2RDMmccVdWa0sQmwp2hRk70sOTDS9RfZXg=");
+}
+
+.ComSys{
+    background-image: url("https://www.svgrepo.com/show/460029/package-alt.svg");
+}
+
+.rightarrow{
+    background-image: url("https://www.svgrepo.com/show/521971/arrow-right-square.svg");
+}
+
+.divblur::after{
+    content: '';
+    width: 103%;
+    height: 103%;
+    background: inherit;
+    position: absolute;
+    top: 0;
+    z-index: 0;
+    left: -10px;
+    filter: blur(5px)
+}
+
+@keyframes fadeFw {
+	0% {
+		opacity: 0;
+        color: transparent;
+		transform: scale(0.6);
+	}
+
+	100% {
+		opacity: 1;
+        color: white;
+		transform: scale(1);
+	}
+}
+
+@keyframes fadeBk {
+	0% {
+		opacity: 0;
+        color: transparent;
+		transform: translateX(-50px);
+	}
+
+	100% {
+		opacity: 1;
+        color: white;
+		transform: translateX(0);
+	}
+}
+
+@keyframes fadeRg {
+	0% {
+		opacity: 0;
+		transform: translateX(50px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+}
+
+@keyframes sideleft {
+	0% {
+		opacity: 0;
+        text-decoration: none;
+		transform: translateX(-250px);
+	}
+
+	100% {
+		opacity: 1;
+        text-decoration: overline;
+		transform: translateX(0);
+	}
+}
+
+
+
+.fadefw{
+    animation: fadeFw 3s ease 0s 1 normal forwards;
+}
+
+.fadefwd{
+    animation: fadeBk 3s ease 0s 1 normal forwards;
+}
+
+.faderg{
+    animation: fadeRg 5s ease 0s 1 normal forwards;
+}
+
+.outlinet{
+    transition: outline 1s ease 0s;
+}
+
+.sideleft{
+    animation: sideleft 2s ease 0s 1 normal forwards;
+}
+
