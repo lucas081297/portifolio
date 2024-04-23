@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
+/*eslint-disable*/
 
 const Page = () => {
     return (
