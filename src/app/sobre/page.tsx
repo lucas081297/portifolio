@@ -8,6 +8,7 @@ import photo from '@/assets/perfilteste-removebg-preview.png'
 const Page = () => {
 
     function changeColor():void{
+        //@ts-ignore
         imageCBg.current ? imageCBg.current.style.backgroundColor = '#' + Math.floor(Math.random() * 0x1000000).toString(16).padStart(6, '0') : ''     
     }
 
